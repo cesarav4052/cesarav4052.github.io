@@ -1,0 +1,20 @@
+body{
+    background-image: url('../img/mi_planeta.png');
+    background-size: cover;
+}
+
+.tabla{
+    color: blueviolet;
+    word-spacing: 0rem;
+    font-weight: 500;
+    border-color: chartreuse;
+    border-style: dotted;
+    
+}
+
+.texto{
+    color: white;
+    word-spacing: 0rem;
+    font-weight: 500;
+    
+}
